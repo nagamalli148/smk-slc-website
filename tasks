@@ -4,5 +4,73 @@
 
 Requirements:
 
-
 2. About us 
+
+HEADER
+│
+├── HOME
+│   │
+│   ├── What is SMK SLC?
+│   │
+│   └── Impact Through Major Activities
+│       ├── 600+ — Freedom Fest
+│       ├── 109+ — Design Thinking
+│       └── 10+ Teams — SIH / Internal Hackathon
+│
+├── ABOUT
+│   │
+│   ├── Vision
+│   └── Mission
+│
+├── ACTIVITIES
+│   │
+│   ├── Orientation
+│   ├── Design Thinking
+│   ├── SIH Work Session
+│   ├── Internal Hackathon
+│   └── Freedom Fest
+│
+├── PROJECT LEARNING
+│   │
+│   ├── AI Internship Projects
+│   └── AI Boot Camp
+│
+├── INITIATIVES
+│   │
+│   ├── In Campus
+│   │   └── Do You Know? Initiative
+│   │
+│   └── Beyond Campus
+│       │
+│       └── Swecha Knowledge Center, Vijayawada
+│           ├── Tech Days
+│           └── After Hours Learning
+│
+├── SMK SLC × SWECHA
+│   │
+│   ├── Balostav
+│   │   └── Judges
+│   │
+│   ├── Nalanda Tech Sprint
+│   │   └── Mentor
+│   │
+│   ├── Summer Camp for School Students
+│   │   └── Speaker
+│   │
+│   ├── After Learning
+│   │   └── Leadership / Coordination
+│   │
+│   └── Book Festival
+│       └── Social Outreach
+│
+├── VOLUNTEER TEAM BEHIND
+│   │
+│   └── Functional Team
+│
+├── CONTACT / SOCIALS
+│   │
+│   └── Join / Connect
+│       ├── Instagram
+│       └── WhatsApp
+│
+└── FOOTER
